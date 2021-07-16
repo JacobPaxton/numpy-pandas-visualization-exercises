@@ -1,1 +1,1 @@
-This repository contains my work for the Codeup Numpy - Pandas module.
+This repository contains my work for the Codeup NumPy, Pandas, and Visualization module.
